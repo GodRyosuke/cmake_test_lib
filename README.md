@@ -9,7 +9,7 @@ $ cmake -G "MinGW Makefiles" -S ../../ -B .
 $ cmake --build .
 $ ctest
 ```
-# 実行ファイルを動かしたい場合
+## 実行ファイルを動かしたい場合
 ```bash
 $ cd src\test\wander_lib
 $ WanderLibTests.exe
