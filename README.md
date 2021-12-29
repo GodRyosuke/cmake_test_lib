@@ -1,4 +1,4 @@
-# visual studio‚ğ—p‚¢‚½ƒ‰ƒCƒuƒ‰ƒŠ
+# visual studioï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½
 ## getting started
 ```bash
 $ git clone this_repo.git
@@ -9,11 +9,11 @@ $ cmake -G "MinGW Makefiles" -S ../../ -B .
 $ cmake --build .
 $ ctest
 ```
-Àsƒtƒ@ƒCƒ‹‚ğ“®‚©‚µ‚½‚¢ê‡‚ÍAˆÈ‰º‚ğÀs
+ï¿½ï¿½ï¿½sï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ğ“®‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½È‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½s
 ```bash
 $ cd src\test\wander_lib
 $ WanderLibTests.exe
-‚à‚µ‚­‚ÍA
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍA
 $ cd src/test/wander_lib
 $ ./WanderLibTests
 ```

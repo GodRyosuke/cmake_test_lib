@@ -10,6 +10,7 @@ option(RILEY_CPP_UTILS_WITH_TESTS "Build and run RileyCppUtils test executables"
 add_subdirectory(src/main/wander_lib)
 # add_subdirectory(src/main/r3/validation)
 
+
 if (${RILEY_CPP_UTILS_WITH_TESTS})
 	enable_testing()
 	add_subdirectory(src/test/wander_lib)
