@@ -1,4 +1,4 @@
-# visual studio��p�������C�u����
+# visual studioを用いたtest library
 ## getting started
 ```bash
 $ git clone this_repo.git
@@ -9,11 +9,11 @@ $ cmake -G "MinGW Makefiles" -S ../../ -B .
 $ cmake --build .
 $ ctest
 ```
-���s�t�@�C���𓮂��������ꍇ�́A�ȉ������s
+# 実行ファイルを動かしたい場合
 ```bash
 $ cd src\test\wander_lib
 $ WanderLibTests.exe
-�������́A
+# On linux distribution↓
 $ cd src/test/wander_lib
 $ ./WanderLibTests
 ```
